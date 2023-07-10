@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Solution](https://github.com/nathsantoliver/onf-preview-card-component-main/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [NFT Card](https://nft-preview-card-component-main-kappa-one.vercel.app/)
 
 ## My process
 
